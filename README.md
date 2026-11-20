@@ -1,8 +1,7 @@
-https://img.shields.io/badge/ONE%20UI-9%2B-0096FF?style=for-the-badge&labelColor=444444
-https://img.shields.io/badge/PLATFORM-MTK-0096FF?style=for-the-badge&labelColor=444444
-https://img.shields.io/badge/SAMSUNG%20GALAXY-1428A0?style=for-the-badge&labelColor=444444
-https://img.shields.io/badge/LICENSE-MIT-4CC61A?style=for-the-badge&labelColor=444444
-
+![One UI](https://img.shields.io/badge/One%20UI-9%2B-blue?style=for-the-badge)
+![Platform](https://img.shields.io/badge/Platform-Samsung%20Galaxy-1428A0?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+![SamsungGalaxy](https://img.shields.io/badge/SAMSUNG%20GALAXY-1428A0?style=for-the-badge&labelColor=444444)
 🚨✨ BIG NEWS FOR SAMSUNG FANS! ✨🚨
 
 🌙 AOD is finally here on the Samsung A15 4G and plenty of other devices that never had it! 📱🔥
