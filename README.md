@@ -2,7 +2,12 @@
 ![Platform](https://img.shields.io/badge/Platform-Samsung%20Galaxy-1428A0?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 ![SamsungGalaxy](https://img.shields.io/badge/SAMSUNG%20GALAXY-1428A0?style=for-the-badge&labelColor=444444)
+
+
+
 🚨✨ BIG NEWS FOR SAMSUNG FANS! ✨🚨
+
+🏷️ 📱 ONE UI 9.0+ 🏷️ 🧱 PLATFORM: MTK 🏷️ 🌌 SAMSUNG GALAXY 🏷️ 📜 LICENSE: MIT
 
 🌙 AOD is finally here on the Samsung A15 4G and plenty of other devices that never had it! 📱🔥
 
@@ -38,3 +43,5 @@ Imagine your screen glowing softly all day long... 🖥️💫 Now it’s real!
 🐙 NowBrief Enabler: https://github.com/andrewtuff/Bring-Now-Brief-To-Budget-Samsung
 
 👨‍💻 Made by: 📩 Telegram: @andrewtuff
+
+Stay tuned, flash carefully, and happy customizing! 🛠️🎊🚀
